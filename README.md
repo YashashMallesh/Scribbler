@@ -24,5 +24,4 @@ If you have ideas, bug reports, or wish to introduce new features, submit pull r
 ## License
 Scribbler is released under the MIT License, granting you the freedom to use, modify, and distribute the code.
 
-## Contact
-Got questions or feedback? Reach out to us at aishwaryatomer@gmail.com.
+
